@@ -1,0 +1,2 @@
+/path/to/your/local/patstat
+/path/to/your/local/patentsview
